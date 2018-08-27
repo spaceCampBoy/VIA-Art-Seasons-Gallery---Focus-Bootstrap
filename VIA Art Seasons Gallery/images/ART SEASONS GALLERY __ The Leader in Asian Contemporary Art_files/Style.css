@@ -1,0 +1,241 @@
+.menu li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    float: right;
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    font-weight: bold;
+    padding-left: 18px;
+    
+}
+ul.menu {
+    overflow: hidden;
+    position: absolute;
+    top: 48px;
+    right: 22px;
+}
+.menu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    font-weight: bold;
+    padding-left: 18px;
+}
+ul li.menu a:hover {
+    text-decoration: underlined;
+    font-size: 14px;
+    font-family: Arial;
+    color: #000000;
+    padding-left: 18px;
+}
+
+.menu li a:visited {
+    font-size: 14px;
+    font-family: Arial;
+    color: #575757;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left: 18px;
+}
+
+
+
+.logo img {
+    overflow: hidden;
+    position: absolute;
+    top: 56px;
+    left: -8px;
+}
+
+.facebook img {
+    position: absolute;
+    right: 90px;
+    top: 7px;
+}
+
+.switchlang {
+    position: absolute;
+    top: 11px;
+    right: 15px;
+    font-size: 11px;
+    font-family: Arial;
+    color: #a8a8a8;
+    text-decoration: none;
+}
+
+.switchlang:hover {
+    position: absolute;
+    top: 11px;
+    right: 15px;
+    font-size: 11px;
+    color: #4d4d4e;
+    text-decoration: underlined;
+}
+
+
+
+
+
+
+
+
+
+
+
+html {
+    padding: 0;
+    margin-left: 40px;
+    margin-right: 40px;
+                }
+
+hedder{
+
+}
+
+
+body {
+    font-family: Arial;
+    font-size: 14px;
+    padding-top: 120px;
+    width: 1100px;
+    max-width: 1100px;
+    border: 0px solid #000000;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+/* SUB MENU */
+
+.submenu li {
+    display: inline;
+    list-style: none;
+    text-decoration: none;
+    float: left;
+    font-size: 10px;
+    font-family: Arial;
+    color: #4d4d4d;
+    padding-left: 18px;
+    
+}
+ul.submenu {
+    overflow: hidden;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 230px;
+    font-size: 10px;   
+}
+.submenu li a {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: Arial;
+    color: #4d4d4d;
+    padding-left: 18px;
+}
+
+
+
+
+
+
+
+#left-side{
+    width: 500px;
+    float: left;
+}
+
+#right-side2{
+    font-family: Arial;
+    padding-left: 35px;
+    padding-top: 15px;
+    border: 1p solid black;
+    width: 560px;
+    height: 100px;
+    float: right;
+    position:absolute;
+    top: 0;
+    margin-top: 160px;
+    bottom: 0;
+    left: 48%;
+    border-left: 1px dotted #444;
+}
+
+#right-side1{
+    font-family: Arial;
+    padding-left: 35px;
+    padding-top: 15px;
+    border: 1p solid black;
+    width: 560px;
+    height: 410px;
+    float: right;
+    position:absolute;
+    top: 0;
+    margin-top: 160px;
+    bottom: 0;
+    left: 48%;
+    border-left: 1px dotted #444;
+}
+
+#content{
+    overflow: hidden;
+    padding-top: 100px;
+    color: #A9A9A9;
+}
+
+
+.GalerryImg{ 
+    width: 220px;
+    height: auto;
+    float: left;
+    overflow: visible;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.GalerryImg2{ 
+    width: 200px;
+    height: auto;
+    float: left;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;  
+}
+
+.ContactS{ 
+    width: 290px;
+    height: auto;
+    float: left;
+    overflow: visible;
+    
+}
+.MapS{ 
+    position: relative;
+    width: 250px;
+    float: right;
+    height: auto;
+    overflow: visible;
+    
+}
+
+.paragraph{
+    
+    text-align: justify;
+}
+.span{
+    font-size:17px; color:#a8a8a8; font-weight:bold;
+}
+.pre{
+    font-family: Arial;
+}
